@@ -1,0 +1,2 @@
+3.0
+{'nerdtree': {'checked_time': 1544059869, 'installed_uri': 'https://github.com/scrooloose/nerdtree.git', 'installed_path': '/Users/mjpurin/.vim/bundle/nerdtree', 'revisions': {'1543501059': 'c905a5d7b87051e574c2e72fae57e56c456ba2f4'}, 'updated_time': '1543501059'}, 'unite.vim': {'checked_time': 1544058346, 'installed_uri': 'https://github.com/Shougo/unite.vim.git', 'installed_path': '/Users/mjpurin/.vim/bundle/unite.vim', 'revisions': {'1543795367': '77ae78f277896bc560a46a27a51c49f04b6d4ce1'}, 'updated_time': '1543795367'}}

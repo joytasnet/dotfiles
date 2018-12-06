@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/mjpurin'
+let g:netrw_dirhist_2='/Users/mjpurin/Sites/public/tutorials'
+let g:netrw_dirhist_3='/Users/mjpurin/Documents/Diary'
+let g:netrw_dirhist_4='/Users/mjpurin/Sites/public/sgs'
+let g:netrw_dirhist_5='/Users/mjpurin/Desktop'
